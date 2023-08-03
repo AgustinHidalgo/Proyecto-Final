@@ -3,7 +3,7 @@ import ticketsService from "../services/tickets.service.js";
 import transporter from "../utils/nodemailer.js";
 import { verifyToken } from "../utils.js";
 import logger from "../utils/winston.js";
-import { CartsModel } from "../daos/mongoDao/models/cartsModel.js";
+import { CartsModel } from "../daos/mongoDao/Models/cartsModels.js";
 import CartDTO from "../dto/cartsDto/cartDto.js";
 import usersService from "../services/users.service.js";
 

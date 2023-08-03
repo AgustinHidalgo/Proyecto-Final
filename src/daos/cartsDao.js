@@ -1,5 +1,5 @@
 import productsService from "../services/products.service.js";
-import { CartsModel } from "./mongoDao/models/cartsModel.js";
+import { CartsModel } from "./mongoDao/Models/cartsModels.js"
 import logger from "../utils/winston.js";
 
 class CartsDao {

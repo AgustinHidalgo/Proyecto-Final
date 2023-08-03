@@ -1,0 +1,15 @@
+{
+  message: 'Error al intentar conectar con la base de datos.',
+  level: 'error',
+  timestamp: '2023-08-03T18:16:26.505Z'
+}
+{
+  message: 'Error al intentar conectar con la base de datos.',
+  level: 'error',
+  timestamp: '2023-08-03T19:12:08.376Z'
+}
+{
+  message: 'Error al intentar conectar con la base de datos.',
+  level: 'error',
+  timestamp: '2023-08-03T19:19:03.911Z'
+}

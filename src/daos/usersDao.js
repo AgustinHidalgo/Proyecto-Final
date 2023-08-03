@@ -4,7 +4,7 @@ import { hashPassword, comparePasswords } from "../utils.js";
 import config from "../config/config.js";
 import logger from "../utils/winston.js";
 import CartDTO from "../dto/cartsDto/cartDto.js";
-import { CartsModel } from "./mongoDao/models/cartsModel.js";
+import { CartsModel } from "./mongoDao/Models/cartsModels.js"
 
 class UserDao {
   constructor(model) {
